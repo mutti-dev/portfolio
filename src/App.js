@@ -1,10 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import PortfolioScreen from './screens/PortfolioScreen';
+
 
 function App() {
   return (
     <div className="App">
-      <h1>Mutti Portfolio under development</h1>
+      <PortfolioScreen/>
     </div>
   );
 }
