@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 const Header = () => (
   <HeaderContainer>
-    <Logo>[Your Name]</Logo>
+    <Logo>Mutti Ullah</Logo>
     <NavLinks>
       <a href="#about">About</a>
       <a href="#projects">Projects</a>

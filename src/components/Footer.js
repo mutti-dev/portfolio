@@ -3,9 +3,9 @@ import styled from 'styled-components';
 
 const Footer = () => (
   <FooterContainer>
-    <p>© 2024 [Your Name]. All rights reserved.</p>
+    <p>© 2024 Mutti. All rights reserved.</p>
     <FooterLinks>
-      <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a href="https://github.com/mutti-dev" target="_blank" rel="noopener noreferrer">GitHub</a>
       <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">LinkedIn</a>
       <a href="mailto:youremail@example.com">Email</a>
     </FooterLinks>
